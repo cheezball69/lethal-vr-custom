@@ -431,7 +431,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Discard",
+                    "action": "Push to talk",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
